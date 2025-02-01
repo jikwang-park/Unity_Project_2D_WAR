@@ -2,13 +2,13 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Uu]ser[Ss]ettings/
+Unity_2D_War/[Ll]ibrary/
+Unity_2D_War/[Tt]emp/
+Unity_2D_War/[Oo]bj/
+Unity_2D_War/[Bb]uild/
+Unity_2D_War/[Bb]uilds/
+Unity_2D_War/[Ll]ogs/
+Unity_2D_War/[Uu]ser[Ss]ettings/
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
